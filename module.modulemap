@@ -3,3 +3,8 @@ module CSwiftBTLinux [system] {
     export *
 }
 
+module CSwiftScofieldLinux [system] {
+    header "c_header_files/scofield.h"
+    export *
+}
+
