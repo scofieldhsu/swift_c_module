@@ -1,5 +1,17 @@
 # swift_c_module
 
+git tag -a 1.0.0 -m 'my verison 1.0.0'
+
+git push origin 1.0.0
+
+
+git push origin :1.0.0
+
+git tag --delete 1.0.0
+
+
+
+
 git clone https://github.com/scofieldhsu/swift_c_module.git
 
 cd swift_c_module/
